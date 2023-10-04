@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Sans-serif;
+}
+
+.topo {
+    background: #23b4eb;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    width: 100%;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.largura-limite {
+    width: 100%;
+    max-width: 1024px;
+    min-width: 360px;
+    margin: 0 auto;
+}
+
+.secao {
+    margin: 35px 30px;
+    text-align: justify;
+}
+
+.secao h2, .secao h3, .secao p {
+    margin: 15px 0;
+}
+
+.topo li {
+    display: inline;
+    padding: 0 15px;
+}
+
+#contato{
+    margin-bottom: 60px;
+}
+
+#contato li {
+    display: inline-flex;
+    margin: 1px 0;
+}
+
+#contato a{
+    background: #23b4eb;
+    text-decoration: none;
+    padding: 5px 5px;
+}
+
+#sobre img{
+    width: 100%;
+}
+
+a {
+    color: #ffffff;
+}
